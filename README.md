@@ -36,7 +36,7 @@ Todas as sugestões foram analisadas criticamente e adaptadas conforme o context
 ## ▶️ Como Executar
 1. Clone o repositório:
 ```bash
-git clone https://github.com/DiegoMarayo/nome-do-repositorio
+git clone https://github.com/DiegoMarayo/algoritmos-python-copilot
 ```
 
 2. Execute o algoritmo desejado:
